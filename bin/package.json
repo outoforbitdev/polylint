@@ -1,0 +1,11 @@
+{
+  "markdownlint-cli2": {
+    "ignores": [
+      "**/node_modules/**",
+      "**/CHANGELOG.md"
+    ],
+    "config": {
+      "no-inline-html": false
+    }
+  }
+}
